@@ -1,9 +1,64 @@
 fileFormatVersion: 2
-guid: 4bba24d239f2d4e2ba739b3385979375
+guid: 1fb92f11bf46c4383b871533bcce86d6
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_Head_Material
+    second: {fileID: 2100000, guid: 1e79d21aa6f244342af19ea9adf42927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balloon_Material
+    second: {fileID: 2100000, guid: 7d50768bbec954a24821e2df078fc84d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boat_Material
+    second: {fileID: 2100000, guid: 28474b073727440d09853c0f0c89e04c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Connector_Material
+    second: {fileID: 2100000, guid: 9df6ed5cf5dff49afa8cf7f7220dd612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engine_Material
+    second: {fileID: 2100000, guid: 280092fa18b9249cf8469a47fc0fe395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin_Material
+    second: {fileID: 2100000, guid: 667575d3bd43e4f968b2ee9960febced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leg_Material
+    second: {fileID: 2100000, guid: e1e899108283b49418ecce2f89ca1f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate_Material
+    second: {fileID: 2100000, guid: 9d8d492c5cc1d419d8445a49033a962c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Propeller_Material
+    second: {fileID: 2100000, guid: 746cdaf6251b545a0a8010dec83695d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rope_Material
+    second: {fileID: 2100000, guid: 6f991fbdf0698491ea8dc257a63ec239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sail_Material
+    second: {fileID: 2100000, guid: a13cf1ea177524e7ebc800fa76bcd990, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
